@@ -5,6 +5,6 @@ public class Sample {
 
         System.out.println("From master branch");
 
-        System.out.println("Change in child 1");
+        System.out.println("Child 1 changes");
     }
 }
