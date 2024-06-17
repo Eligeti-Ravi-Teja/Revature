@@ -4,5 +4,7 @@ public class Sample {
         System.out.println("Sub branch code");
 
         System.out.println("From master branch");
+
+        System.out.println("From child 2");
     }
 }
